@@ -1,6 +1,6 @@
-# Project Title
+# Fishing Application
 
-One Paragraph of project description goes here
+A web application using data from netfasa water sensors to help determine the best possible time for fishing in the river.
 
 ## Getting Started
 
